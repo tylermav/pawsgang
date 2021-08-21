@@ -1,3 +1,7 @@
+# Introduction
+
+This repo is to follow along with RaddyTheBrand's [How to Create a Custom eCommerce Theme on WordPress / WooCommerce - Local, Underscores & Bootstrap](https://www.youtube.com/watch?v=8uYSLxJbPEY&t=4147s)
+
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
 _s
